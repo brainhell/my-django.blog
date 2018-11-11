@@ -6,3 +6,4 @@ virtualdjango
 db.sqlite3
 /static
 .DS_Store
+settings.py
